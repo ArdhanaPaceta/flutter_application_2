@@ -1,16 +1,44 @@
-# flutter_application_2
+NAMA    :ARDHANA PRASASTA
+NIM     :362358302081
+KELAS   :2B TRPL
 
-A new Flutter project.
+LANGKAH 1
 
-## Getting Started
+![alt text](image.png)
 
-This project is a starting point for a Flutter application.
+LANGKAH 2
 
-A few resources to get you started if this is your first Flutter project:
+![alt text](image-1.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+LANGKAH 3
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](image-2.png)
+
+LANGKAH 4
+
+![alt text](image-3.png)
+
+LANGKAH 5
+
+![alt text](image-4.png)
+
+LANGKAH 6
+
+![alt text](image-5.png)
+
+hasilnya 
+
+![alt text](image-6.png)
+
+LANGKAH 7
+
+![alt text](image-8.png)
+
+
+HASIL
+![alt text](image-7.png)
+
+LANGKAH 8
+
+
+
